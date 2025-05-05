@@ -1,37 +1,4 @@
 [
-    {
-        "relation": ["delegate_permission/common.handle_all_urls"],
-        "target": {
-          "namespace": "android_app",
-          "package_name": "com.hashcube.mqtest",
-          "sha256_cert_fingerprints":
-          ["F5:34:97:98:68:22:3A:A0:A7:EA:21:CD:26:C7:8E:2E:3B:67:50:F3:38:1F:B6:CE:CD:D9:57:C2:95:A7:4B:FF"]
-        }
-    },
-    {
-        "relation": [
-          "delegate_permission/common.handle_all_urls"
-        ],
-        "target": {
-          "namespace": "android_app",
-          "package_name": "com.tectumgames.unblock",
-          "sha256_cert_fingerprints": [
-            "D0:41:45:7E:17:30:39:26:06:A9:ED:1A:66:85:88:AF:98:94:CA:7B:F8:9E:FC:BD:5A:30:17:EA:A7:37:8D:7D"
-          ]
-        }
-      },
-    {
-        "relation": [
-          "delegate_permission/common.handle_all_urls"
-        ],
-        "target": {
-          "namespace": "android_app",
-          "package_name": "com.tectumgames.unblocktestfree",
-          "sha256_cert_fingerprints": [
-            "05:3D:84:CF:99:77:0C:F5:A6:79:D8:3C:B3:27:09:94:C2:9C:CE:75:98:8F:14:CB:1D:B2:C4:1A:56:A1:2C:F3"
-          ]
-        }
-      },
       {
         "relation": [
           "delegate_permission/common.handle_all_urls"
