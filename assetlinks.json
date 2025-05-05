@@ -10,17 +10,5 @@
             "CD:C2:94:3B:41:B7:3B:09:01:34:8E:98:CC:AC:E8:B9:4C:39:1D:F3:D7:40:43:7F:E8:7C:13:D1:DD:4C:D0:1B"
           ]
         }
-      },
-      {
-        "relation": [
-          "delegate_permission/common.handle_all_urls"
-        ],
-        "target": {
-          "namespace": "android_app",
-          "package_name": "air.com.tectum.sudokutest",
-          "sha256_cert_fingerprints": [
-            "05:3D:84:CF:99:77:0C:F5:A6:79:D8:3C:B3:27:09:94:C2:9C:CE:75:98:8F:14:CB:1D:B2:C4:1A:56:A1:2C:F3"
-          ]
-        }
       }
 ]
